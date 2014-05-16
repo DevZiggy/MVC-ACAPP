@@ -1,0 +1,24 @@
+﻿@{
+    Layout = "~/Views/Shared/_layout-acapp.cshtml";
+}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta name="author" content="Hugo Delsing, http://www.checkthis2.nl"/>
+        <title>Acapp</title>
+        <link href="@Styles.Url("~/Content/acapp")" rel="stylesheet" type="text/css" media="all" />
+    </head>
+    <body>
+        <div id="ACAPP"></div>
+
+    
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/Acapp")
+        <script>
+            $(function () {
+                $('#ACAPP').Acapp({});
+            });
+        </script>
+    </body>
+</html>

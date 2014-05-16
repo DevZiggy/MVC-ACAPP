@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acapp", "Acapp\Acapp.csproj", "{5494D18E-448D-4689-9B28-14842BD7EC29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.checkthis2.acapp", "com.checkthis2.acapp\com.checkthis2.acapp.csproj", "{596444C2-2E3B-434C-998C-56A2F874C65C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5494D18E-448D-4689-9B28-14842BD7EC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5494D18E-448D-4689-9B28-14842BD7EC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5494D18E-448D-4689-9B28-14842BD7EC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5494D18E-448D-4689-9B28-14842BD7EC29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596444C2-2E3B-434C-998C-56A2F874C65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596444C2-2E3B-434C-998C-56A2F874C65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596444C2-2E3B-434C-998C-56A2F874C65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596444C2-2E3B-434C-998C-56A2F874C65C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
