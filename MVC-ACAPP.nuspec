@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>com.checkthis2.mvcacapp</id>
+    <version>1.0.2</version>
+    <title>MVC-ACAPP</title>
+    <authors>h.delsing</authors>
+    <owners>h.delsing</owners>
+    <projectUrl>https://github.com/DevZiggy/MVC-ACAPP</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Turn a basic C# MVC application in a responsive, ajax based web application</description>
+    <releaseNotes>Basics</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>MVC AJAX WEB APP ACAPP</tags>
+    <dependencies>
+        <group targetFramework="net40">
+            <dependency id="jQuery" version="1.9.0" />
+        </group>
+    </dependencies>
+  </metadata>
+</package>
