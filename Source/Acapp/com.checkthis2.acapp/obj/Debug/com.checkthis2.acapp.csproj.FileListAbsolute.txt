@@ -3,3 +3,8 @@ D:\development\Repository\MVC-ACAPP\Trunk\Acapp\com.checkthis2.acapp\bin\Debug\c
 D:\development\Repository\MVC-ACAPP\Trunk\Acapp\com.checkthis2.acapp\obj\Debug\com.checkthis2.acapp.dll
 D:\development\Repository\MVC-ACAPP\Trunk\Acapp\com.checkthis2.acapp\obj\Debug\com.checkthis2.acapp.pdb
 D:\development\Repository\MVC-ACAPP\Trunk\Acapp\com.checkthis2.acapp\obj\Debug\com.checkthis2.acapp.csprojResolveAssemblyReference.cache
+D:\webwerk\Repository\MVC-ACAPP\Source\Acapp\com.checkthis2.acapp\bin\Debug\com.checkthis2.acapp.dll
+D:\webwerk\Repository\MVC-ACAPP\Source\Acapp\com.checkthis2.acapp\bin\Debug\com.checkthis2.acapp.pdb
+D:\webwerk\Repository\MVC-ACAPP\Source\Acapp\com.checkthis2.acapp\obj\Debug\com.checkthis2.acapp.csprojResolveAssemblyReference.cache
+D:\webwerk\Repository\MVC-ACAPP\Source\Acapp\com.checkthis2.acapp\obj\Debug\com.checkthis2.acapp.dll
+D:\webwerk\Repository\MVC-ACAPP\Source\Acapp\com.checkthis2.acapp\obj\Debug\com.checkthis2.acapp.pdb
